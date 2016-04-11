@@ -4,6 +4,10 @@ Created on Wed Feb 10 16:12:03 2016
 
 @author: yorick
 """
+kperm = 8248.98310351
+rho =
+def cool(T):
+    return -0.1*T
 
 def f(x1, x2, x3, x4, x5):
     return 10**(x1+x2+x3+x4+x5)
